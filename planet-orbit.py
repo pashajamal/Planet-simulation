@@ -11,7 +11,6 @@ pygame.display.set_caption("Planet Simulation")
 # This helps control how fast our simulation runs (frames per second)
 clock = pygame.time.Clock()
 
-# A special number used in physics to calculate gravity between objects
 G = 6.67430e-11  # Gravitational constant
 
 # Real distances in space are HUGE (millions of km), so we shrink them down
