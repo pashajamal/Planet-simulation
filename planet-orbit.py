@@ -1,7 +1,6 @@
 import pygame
 import math
 
-# Start pygame so we can open a window and draw things
 pygame.init()
 
 # Size of our window (width x height in pixels)
