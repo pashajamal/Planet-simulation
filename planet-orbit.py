@@ -8,7 +8,7 @@ WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Planet Simulation")
 
-# This helps control how fast  
+# This helps   
 clock = pygame.time.Clock()
 
 G = 6.67430e-11  # Gravitational constant
