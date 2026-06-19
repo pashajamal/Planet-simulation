@@ -133,7 +133,7 @@ while running:
         body.update_position(bodies)
         body.draw(screen)
 
-    # Show everything we just
+   
     pygame.display.flip()
 
     # Limit the simulation to 60 frames per second so it doesn't run too fast
