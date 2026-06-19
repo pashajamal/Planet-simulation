@@ -14,7 +14,6 @@ clock = pygame.time.Clock()
 G = 6.67430e-11  # Gravitational constant
 
 # Real distances in space are HUGE (millions of km), so we shrink them down
-# to fit nicely on our small screen using these scale numbers
 SCALE = 6e-11        # Normal zoomed-out view
 ZOOM_SCALE = 1e-9    # Zoomed-in view (makes things look bigger/closer)
 
